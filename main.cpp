@@ -1,7 +1,7 @@
 
 #include <iostream>
-#include "primeGen.h"
 using namespace std;
+#include "primeGen.h"
 
 int main() 
 {
