@@ -1,8 +1,5 @@
-#ifndef primesGen_H
-#define primesGen_H
-
-#include <iostream>
-using namespace std;
+#ifndef primesGen_h
+#define primesGen_h
 
 class PrimeList 
 {
