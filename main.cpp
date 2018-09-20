@@ -32,7 +32,6 @@ void PrimeList::generatePrimeList()
          list[listpos] = k;
       }
    }
-
 }
 
 ostream& operator<<(ostream &strm, const PrimeList& pl) 
