@@ -1,3 +1,6 @@
+#ifndef primesGen_H
+#define primesGen_H
+
 #include <iostream>
 using namespace std;
 
@@ -15,3 +18,5 @@ public:
    void generatePrimeList();
    friend ostream& operator<<(ostream &strm, const PrimeList& pl);
 };
+
+#endif
